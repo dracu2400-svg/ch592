@@ -1877,6 +1877,13 @@ This guide covered:
 - **I2C Examples**: `EVT/EXAM/I2C/`
 - **SPI Examples**: `EVT/EXAM/SPI/`
 - **Production App**: `Applications/8K_PollingRateWirelessMouse/`
+- **Complete Integration Example**: `Applications/SmartFoodLabel/` - Full application demonstrating:
+  - SHTxx I2C sensor integration
+  - GDEY029T94 e-paper SPI display
+  - Button handling with long-press detection
+  - Custom UI system with font rendering
+  - EEPROM data persistence
+  - Event-driven architecture
 
 ### Next Steps
 
